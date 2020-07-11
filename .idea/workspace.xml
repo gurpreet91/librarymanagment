@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45b88f34-fa06-45d7-8df1-452eed571b29" name="Default Changelist" comment="" />
+    <list default="true" id="45b88f34-fa06-45d7-8df1-452eed571b29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1eRs9zOvacgcAcM5YLKF0rJsNTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -80,18 +90,35 @@
       <updated>1594295592273</updated>
       <workItem from="1594295598627" duration="860000" />
       <workItem from="1594297012081" duration="5377000" />
-      <workItem from="1594446016536" duration="8012000" />
+      <workItem from="1594446016536" duration="8777000" />
     </task>
+    <task id="LOCAL-00001" summary="update lib management">
+      <created>1594457536636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594457536637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update lin management" />
+    <MESSAGE value="update lib management" />
+    <option name="LAST_COMMIT_MESSAGE" value="update lib management" />
   </component>
   <component name="WindowStateProjectService">
     <state x="416" y="131" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1594295781109">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="416" y="131" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.694@0.27.1366.694" timestamp="1594295781109" />
+    <state x="361" y="178" width="634" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594458205980">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="361" y="178" width="634" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.694@0.27.1366.694" timestamp="1594458205980" />
     <state x="491" y="60" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1594299196065">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
@@ -108,10 +135,14 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="387" y="232" width="591" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1594296232064" />
-    <state x="109" y="27" width="1138" height="694" key="CommitChangelistDialog2" timestamp="1594457454720">
+    <state x="109" y="27" width="1138" height="694" key="CommitChangelistDialog2" timestamp="1594458163793">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="109" y="27" width="1138" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1594457454720" />
+    <state x="109" y="27" width="1138" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1594458163793" />
+    <state x="127" y="81" width="1092" height="585" key="DiffContextDialog" timestamp="1594458181660">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="127" y="81" width="1092" height="585" key="DiffContextDialog/0.27.1366.694@0.27.1366.694" timestamp="1594458181660" />
     <state x="466" y="131" width="447" height="484" key="FileChooserDialogImpl" timestamp="1594457422028">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
@@ -148,5 +179,9 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state width="1320" height="130" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1594454280368" />
+    <state x="278" y="109" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1594458241538">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="278" y="109" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.694@0.27.1366.694" timestamp="1594458241538" />
   </component>
 </project>
