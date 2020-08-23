@@ -75,6 +75,7 @@ public class LibraryManagmentWebService {
 		listOfBookDetails.add(new BookDetails("Spring", "Durgesh", "07/07/2020"));
 		listOfBookDetails.add(new BookDetails("Hibernate", "Monty", "07/07/2020"));
 		listOfBookDetails.add(new BookDetails("Let C", "kohlin", "06/06/1990"));
+		listOfBookDetails.add(new BookDetails("JAVA", "James Goslin", "06/06/1990"));
 		return listOfBookDetails;
 
 	}
